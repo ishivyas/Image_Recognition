@@ -1,0 +1,26 @@
+body
+{
+    color: aquamarine;
+    background: lightsteelblue;
+}
+
+.heading
+{
+    width: 80%;
+    font-size: 42px;
+background-color: aliceblue;
+color: lightblue;
+font-family: 'Lobster', cursive;
+}
+
+#camera
+{
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+}
+ .name_of_objects, #results_object_name , #result_object_accuracy
+ {
+    color: lightcoral;
+    font-size: 20px;
+ }
